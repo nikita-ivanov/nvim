@@ -16,6 +16,7 @@ return {
             size = 40,
           },
           {
+            -- debug mode show console window only
             elements = {
               { id = "console", size = 1.0 }, -- removed repl
             },
